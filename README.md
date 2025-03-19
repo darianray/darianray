@@ -20,7 +20,8 @@
 
 
 
-
+</br>
+</br>
 ## 🎐 About Me:
 🌱 Currently strengthening my knowledge on data algorithms while diving into AI
 
@@ -45,15 +46,6 @@
     <img
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
         alt="VS code" width="40" height="40"
-    /> 
- </a> 
- <!-- c -->
- <a
-    href="https://www.cprogramming.com/" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-        alt="c" width="40" height="40"
     /> 
  </a> 
  <!-- cpp -->
