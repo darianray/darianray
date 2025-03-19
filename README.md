@@ -1,6 +1,5 @@
-<div>
-<img align="center" alt="GIF" src="https://github.com/darianray/darianray/blob/main/Images/HeaderAnimation.gif" width="350" />
-</div>
+
+![GitHub Banner](https://github.com/darianray/darianray/blob/main/Images/HeaderAnimation.gif)
 
 <div align="center">
   <picture>
@@ -41,7 +40,7 @@
 
 🌱 Passionate about creative and philanthropic digital spaces.
 
-☘️ Always down to chat—reach me at darianray99@gmail.com or check out my Portfolio.
+☘️ Always down to chat—reach me through [email](mailto:darianray99@gmail.com) or check out my Portfolio.
 
 🌱 Fun fact: I have a *small* obsession with Notion and other productivity apps
 
