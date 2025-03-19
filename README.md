@@ -1,6 +1,4 @@
 
-![GitHub Banner](https://github.com/darianray/darianray/blob/main/Images/HeaderAnimation.gif)
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1500&color=977979&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Hi%2C+I'm+Darian!+%E2%9C%A8">
@@ -8,13 +6,9 @@
     <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
   </picture>
 
+  ![GitHub Banner](https://github.com/darianray/darianray/blob/main/Images/HeaderAnimation.gif)
 
 
-<div align="center">
-  <picture>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=darianray&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
-  </picture>
-</div>
 </div>
 
 
@@ -50,6 +44,11 @@
 </br>
 
 <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=darianray&layout=compact&theme=transparent">
+<div align="left">
+  <picture>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=darianray&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
+  </picture>
+</div>
 
 <div id="user-content-toc">
   <ul style="list-style: none;">
@@ -58,6 +57,7 @@
     </summary>
   </ul>
 </div>
+
 <p align="left">
 <!-- vs code -->
  <a 
