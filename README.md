@@ -17,11 +17,14 @@
 </div>
 
 
-
+<div>
+<img align="right" alt="GIF" src="https://github.com/darianray/darianray/blob/main/Images/designGif.gif" width="350" />
+</div>
 
 
 </br>
 </br>
+
 ## 🎐 About Me:
 🌱 Currently strengthening my knowledge on data algorithms while diving into AI
 
