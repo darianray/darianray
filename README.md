@@ -16,18 +16,18 @@
 </br>
 </br>
 
+
 <div>
-<img align="right" alt="GIF" src="https://github.com/darianray/darianray/blob/main/Images/programGif.gif" width="350" />
-</div>
-
-
-
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
       <h1 style="color:#7f6767;">🎐 About Me:</h1>
     </summary>
   </ul>
+</div>
+<div>
+<img align="right" alt="GIF" src="https://github.com/darianray/darianray/blob/main/Images/programGif.gif" width="350" />
+</div>
 </div>
 
 🌱 Currently strengthening my knowledge on data algorithms while diving into AI
@@ -172,3 +172,5 @@
     /> 
  </a> 
 <br>
+</br>
+</br>
