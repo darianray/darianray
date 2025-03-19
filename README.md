@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1500&color=977979&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Hi%2C+I'm+Darian!+%E2%9C%A8">
@@ -18,14 +16,21 @@
 
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/darianray/darianray/blob/main/Images/designGif.gif" width="350" />
+<img align="right" alt="GIF" src="https://github.com/darianray/darianray/blob/main/Images/programGif.gif" width="350" />
 </div>
 
 
 </br>
 </br>
 
-## 🎐 About Me:
+<div id="user-content-toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h1>🎐 About Me:</h1>
+    </summary>
+  </ul>
+</div>
+
 🌱 Currently strengthening my knowledge on data algorithms while diving into AI
 
 ☘️ I enjoy building visually pleasing products that help people.
@@ -36,11 +41,20 @@
 
 🌱 Fun fact: I have a *small* obsession with Notion and other productivity apps
 
-
+</br>
+</br>
+</br>
+</br>
 
 <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=darianray&layout=compact&theme=transparent">
 
-# <b>Languages and Tools :-</b>
+<div id="user-content-toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h1>🎐 Skills & Tools:</h1>
+    </summary>
+  </ul>
+</div>
 <p align="left">
 <!-- vs code -->
  <a 
