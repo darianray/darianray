@@ -13,7 +13,7 @@
 
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/darianray/darianray/blob/main/Images/programGif.gif" width="350" />
+<img align="right" alt="GIF" src="https://github.com/darianray/darianray/blob/main/Images/programGif.gif" width="400" />
 </div>
 
 
