@@ -11,14 +11,16 @@
 
 </div>
 
+</br>
+</br>
+</br>
+</br>
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/darianray/darianray/blob/main/Images/programGif.gif" width="400" />
+<img align="right" alt="GIF" src="https://github.com/darianray/darianray/blob/main/Images/programGif.gif" width="350" />
 </div>
 
 
-</br>
-</br>
 
 <div id="user-content-toc">
   <ul style="list-style: none;">
@@ -50,6 +52,8 @@
   </picture>
 </div>
 
+</br>
+</br>
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
