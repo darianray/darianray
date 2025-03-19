@@ -1,3 +1,7 @@
+<div>
+<img align="center" alt="GIF" src="https://github.com/darianray/darianray/blob/main/Images/HeaderAnimation.gif" width="350" />
+</div>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1500&color=977979&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Hi%2C+I'm+Darian!+%E2%9C%A8">
@@ -26,7 +30,7 @@
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
-      <h1>🎐 About Me:</h1>
+      <h1 style="color:#7f6767;">🎐 About Me:</h1>
     </summary>
   </ul>
 </div>
@@ -51,7 +55,7 @@
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
-      <h1>🎐 Skills & Tools:</h1>
+      <h1 style="color:#7f6767;">🎐 Skills & Tools:</h1>
     </summary>
   </ul>
 </div>
